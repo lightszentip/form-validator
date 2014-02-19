@@ -5,3 +5,6 @@ __Functions of this module__
 * PasswordValidator with strategy
 * PasswordConfirmValidator
 * FieldMatch
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lightszentip/form-validator/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
