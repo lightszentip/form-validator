@@ -1,4 +1,7 @@
 #Form Validator
+
+[![Build Status](https://travis-ci.org/lightszentip/form-validator.svg?branch=master)](https://travis-ci.org/lightszentip/form-validator)
+
 __Functions of this module__
 
 * EmailValidator with strategy
